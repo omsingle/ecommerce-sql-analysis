@@ -1,7 +1,6 @@
 
 -- =========================================
 -- PROJECT: Olist E-commerce SQL Analysis
--- SPRINT 4: Payment Analysis
 -- =========================================
 
 
